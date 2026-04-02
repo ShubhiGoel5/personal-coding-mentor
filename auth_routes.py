@@ -1,0 +1,1 @@
+# Content of auth_routes.py
