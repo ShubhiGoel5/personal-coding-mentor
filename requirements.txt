@@ -1,1 +1,10 @@
-# Content of updated requirements.txt
+flask==2.3.0
+flask-sqlalchemy==3.0.5
+flask-jwt-extended==4.4.4
+flask-cors==4.0.0
+python-dotenv==1.0.0
+openai>=0.27.0
+psycopg2-binary==2.9.6
+alembic==1.11.1
+marshmallow==3.19.0
+werkzeug==2.3.0
